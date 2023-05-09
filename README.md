@@ -3,21 +3,21 @@
 ## Aula1:
 Conceitos:
 
-..* Sistemas web e recursos
+* Sistemas web e recursos
 
-..* Cliente/servidor, HTTP, JSON
+* Cliente/servidor, HTTP, JSON
 
-..* Padrão Rest para API web
+* Padrão Rest para API web
 
-..* Estruturação de projeto Spring Rest
+* Estruturação de projeto Spring Rest
 
-..* Entidades e ORM
+* Entidades e ORM
 
-..* Database seeding
+* Database seeding
 
-..* Padrão camadas
+* Padrão camadas
 
-..* Controller, service, repository
+* Controller, service, repository
 
-..* Padrão DTO
+* Padrão DTO
 

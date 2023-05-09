@@ -1,7 +1,6 @@
 # Projeto DSList - Intensivão Java Spring
 
 ## Aula1:
-Conceitos:
 
 * Sistemas web e recursos
 

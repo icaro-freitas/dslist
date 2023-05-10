@@ -1,6 +1,6 @@
 # Projeto DSList - Intensivão Java Spring
 
-## Aula1:
+## Aula 1:
 
 * Sistemas web e recursos
 
@@ -20,7 +20,7 @@
 
 * Padrão DTO
 
-## Aula2:
+## Aula 2:
 
 * Relacionamentos N-N
 

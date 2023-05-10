@@ -20,5 +20,15 @@
 
 * Padrão DTO
 
+## Aula2:
+
+* Relacionamentos N-N
+
+* Classe de associação, embedded id
+
+* Consultas SQL no Spring Data JPA
+
+* Projections
+
 
 

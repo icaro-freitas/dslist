@@ -1,6 +1,6 @@
 # Projeto DSList - Intensivão Java Spring
 
-## Aula1:
+## Aula 1:
 
 * Sistemas web e recursos
 
@@ -19,6 +19,16 @@
 * Controller, service, repository
 
 * Padrão DTO
+
+## Aula 2:
+
+* Relacionamentos N-N
+
+* Classe de associação, embedded id
+
+* Consultas SQL no Spring Data JPA
+
+* Projections
 
 
 

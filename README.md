@@ -46,7 +46,7 @@
 
 ## Aula 4:
 
-* Criação do método para mudar a posição dos jogos na lista conforme a requisição
+* Criação da rota replacement, métodos e DTO para mudar a posição dos jogos na lista conforme a requisição
   
 ![Games](https://github.com/icaro-freitas/dslist-Spring-Boot/assets/77081076/a10fb93a-f0ed-410b-9303-006c8be03020)
 

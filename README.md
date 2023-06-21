@@ -48,6 +48,10 @@
 
 * Criação da rota replacement, métodos e DTO para mudar a posição dos jogos na lista conforme a requisição
   
+* Design e implementação de endpoint
+  
+* Verbo HTTP e idempotência
+  
 ![Games](https://github.com/icaro-freitas/dslist-Spring-Boot/assets/77081076/a10fb93a-f0ed-410b-9303-006c8be03020)
 
 ![Gamebyid](https://github.com/icaro-freitas/dslist-Spring-Boot/assets/77081076/f080b71e-59cf-4dac-aca4-71e26d1cc6a9)

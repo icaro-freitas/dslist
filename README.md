@@ -51,6 +51,12 @@
 * Design e implementação de endpoint
   
 * Verbo HTTP e idempotência
+
+## Aula 5:
+
+* Revisão do conteúdo
+
+* Visão arquitetural
   
 ![Games](https://github.com/icaro-freitas/dslist-Spring-Boot/assets/77081076/a10fb93a-f0ed-410b-9303-006c8be03020)
 
